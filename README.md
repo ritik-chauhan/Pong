@@ -2,6 +2,7 @@
 
 ## Game Screen
 Game starts with ball placed in the middle.
+Top left has a FPS display
 ![Screenshot (92)](https://user-images.githubusercontent.com/56646924/167129158-6fcbfd51-50cd-4249-8ddc-0a676f2b1f8c.png)
 
 ## End Screen
